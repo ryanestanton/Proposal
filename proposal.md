@@ -6,7 +6,7 @@ Hand and Basic ASL Camera Recognition
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A program that rcognizes hand features and some ASL through your camera and translates it.
+A program that recognizes hand features and some ASL through your camera and translates it.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
@@ -18,9 +18,9 @@ N/A
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-Andrew Tran, , Zhenyu Zhao
+Andrew Tran, tuo19727@temple.edu, Zhenyu Zhao
 
-Brennan Cole, , Zhenyu Zhao
+Brennan Cole, brennan.cole@temple.edu, Zhenyu Zhao
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
