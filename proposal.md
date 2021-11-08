@@ -38,4 +38,4 @@ The more the program can recognize the better, I guess the best outcome would ju
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+Once we finish downloading all of the necessary programs onto our computers and the hand recognition code needed, we will be able to start. Then our group can meet together in the next couple days so we can start and figure out the next steps and who will do certain parts of the project. We will start by initializing whatever is necessary and reading th actual frames from the camera in order to have the software recognize hand features, keypoints, and gestures. As we go through everything we will discuss who will be doing what and what extra research we may need in order to complete certain aspects.
